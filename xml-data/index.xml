@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<request type="employee" id="12344556">
+    <username>fdgdfs</username>
+    <emails>
+      <work>oip@fdg.fsag</work>
+      <personel>example@gmail.com</personel>
+    </emails>
+    <address>dsaf</address>
+    <role>manager</role>
+    <gender>female</gender>
+</request>
+

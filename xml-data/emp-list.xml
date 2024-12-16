@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<list>
+<request type="employee" id="1">
+    <username>abc</username>
+    <emails>
+      <work>abc@fdg.fsag</work>
+      <personel>abc@gmail.com</personel>
+    </emails>
+    <address>one</address>
+    <role>manager</role>
+    <gender>female</gender>
+</request>
+<request type="employee" id="2">
+    <username>pqr</username>
+    <emails>
+      <work>pqr@fdg.fsag</work>
+      <personel>pqr@gmail.com</personel>
+    </emails>
+    <address>two</address>
+    <role>admin</role>
+    <gender>male</gender>
+</request>
+<request type="employee" id="3">
+    <username>xyz</username>
+    <emails>
+      <work>xyz@fdg.fsag</work>
+      <personel>xyz@gmail.com</personel>
+    </emails>
+    <address>three</address>
+    <role>employee</role>
+    <gender>female</gender>
+</request>
+</list>
