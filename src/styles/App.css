@@ -1,0 +1,32 @@
+.form-container{
+  margin: 25px;
+text-align: left;
+}
+h2,p{
+  margin: 10px;
+  color: #313030;
+}
+
+label{
+  font-weight: bold;
+  display: flex;
+  margin-bottom: 5px;
+}
+
+select,
+textarea,
+input[type='text'],
+input[type='email'],
+input[type='number'],
+input[type='data']{
+  display: block;
+  width: 400px;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1.4285;
+  color: #313030;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-bottom: 20px;
+}
